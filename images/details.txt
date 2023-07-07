@@ -1,0 +1,6 @@
+Mockup Design
+
+header background color code:- #1d3a42
+footer color code:- #385259
+Social color:- #c8a067
+text color:- #292f36
